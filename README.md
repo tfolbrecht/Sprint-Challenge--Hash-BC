@@ -25,8 +25,13 @@ This sprint challenge is divided up into three parts:  Hash tables (24 points), 
 During your challenge, you will be pulled aside by a PM for a 5 minute interview. During this interview, you will be expected to answer the following three questions:
 
   * 1. What is a blockchain and how does it work?
+  * * A blockchain is a data structure that, similar to a linked list is a series of chained values. These values are stored by mining blocks. Mining blocks also sometimes give proof of work rewards. Blockchains are a type of distributed consensus system that use the chain length to determine validity.
+
   * 2. What is an array and how does it work?
+  * * An array is a data structure the stores values sequentially in memory. Array values are deliminated by its elements size in bytes.
+
   * 3. What is a hash table and how does it work?
+  * * A hash table is a data stucture that takes in an input, runs a hashing function and uses the hash as a key to some output.
 
 You will receive points at the PM's discretion based on the following criteria:
 
